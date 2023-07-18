@@ -1,7 +1,7 @@
 - :earth_asia: Data Scientist 
-- :dna: Interested in All Things Science
 - :computer: Pyhton, SQL, R Enthusiast 
 - :lotus_position_woman: Yoga Instructor
+- - :dna: Science Enthusiast
 - :incoming_envelope: Gaglani31@gmail.com
 - :calling: https://www.linkedin.com/in/simran-gaglani-16756b105/
 - 👋 Hello World,
